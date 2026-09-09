@@ -215,10 +215,12 @@ def add_temperature_range(data_table):
 
     data_table["Temperature Range"] = temp_range
 
+#njhh
 # -------------------------
 #   ogram Start
 # -------------------------
 data = read_csv(r"C:\Users\20170213\Documents\session8\weather\weather.csv")
+
 
 add_temperature_range(data)
 
