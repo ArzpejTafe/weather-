@@ -1,8 +1,8 @@
 import math
 
 series_titles = [
-    "Maximum temperature (Degree C)",
-    "Minimum temperature (Degree C)",
+    "Maximum temperature (Degree F)",
+    "Minimum temperature (Degree F)",
     "Rainfall amount (millimetres)"
 ]
 
